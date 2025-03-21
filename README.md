@@ -1,1 +1,1 @@
-# Codeaplha_Tasks_Handwritten-Character
+# Handwritten-Character_Detection
